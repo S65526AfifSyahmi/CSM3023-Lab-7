@@ -1,0 +1,12 @@
+lab7\controller\StudentServlet.class
+lab7\controller\UserServlet.class
+lab7\model\Profile.class
+com\mycompany\lab7\JakartaRestConfiguration.class
+lab7\model\Student.class
+lab7\dao\ProfileDAO.class
+lab7\dao\UserDAO.class
+com\mycompany\lab7\resources\JakartaEE10Resource.class
+lab7\controller\ProfileServlet.class
+lab7\dao\DBConnection.class
+lab7\dao\StudentDAO.class
+lab7\model\User.class
